@@ -1,1 +1,61 @@
+🚀 আমাদের শেখার রোডম্যাপ (Beginner to Advanced)
 
+আমি নিচে পুরো লারাভেল শেখার পথ সাজিয়ে দিচ্ছি, যেভাবে আমরা ধীরে ধীরে এগোবো 👇
+
+Phase 1: Laravel পরিচয় ও সেটআপ
+
+✅ Laravel কী এবং কেন ব্যবহার করা হয়
+✅ Composer ও Laravel install করা
+✅ Laravel প্রজেক্ট তৈরি
+✅ Folder structure বোঝা
+✅ Route, Controller, View এর কাজ
+
+🧠 Goal: প্রথমে “Hello Laravel” প্রজেক্ট বানানো শিখবে।
+
+Phase 2: Blade Template & Routing
+
+✅ Blade syntax ({{ }}, @if, @foreach ইত্যাদি)
+✅ Layout ও section তৈরি
+✅ Routing এর প্রকারভেদ (GET, POST, parameter passing)
+
+🧠 Goal: একাধিক পেজ ওয়েবসাইট বানাবে — Home, About, Contact।
+
+Phase 3: Controller & Model
+
+✅ Controller তৈরি ও কাজ
+✅ MVC কীভাবে কাজ করে
+✅ Model তৈরি ও ডেটা পাঠানো
+
+🧠 Goal: Contact form এর ডেটা controller এ পাঠানো শিখবে।
+
+Phase 4: Database & Eloquent ORM
+
+✅ Database connect করা (.env ফাইল)
+✅ Migration তৈরি করা
+✅ Eloquent ORM এর basic CRUD (Create, Read, Update, Delete)
+
+🧠 Goal: “Student Management” CRUD প্রজেক্ট বানাবে।
+
+Phase 5: Authentication System
+
+✅ Laravel Breeze বা Jetstream দিয়ে login/register
+✅ Middleware বোঝা
+✅ User Dashboard তৈরি
+
+🧠 Goal: “User Login System” বানাবে।
+
+Phase 6: Real Project (Practice Based)
+
+✅ Blog Project (Post Create, Edit, Delete, Comment)
+✅ File Upload & Image Display
+✅ Pagination, Search, Filter
+✅ Admin Panel (role-based access)
+
+🧠 Goal: Real-world “Mini Blog” প্রজেক্ট বানাবে।
+
+Phase 7: Advanced Concepts
+
+✅ API তৈরি করা (REST API)
+✅ Laravel Relationships (One to Many, Many to Many)
+✅ Notifications & Mail
+✅ Deployment (Hosting এ আপলোড করা)
