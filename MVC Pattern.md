@@ -1,13 +1,13 @@
 ## 🏗️ Step 1: Laravel Folder Structure বোঝা
-#### | Folder/File          | কাজ                                                             |
-| -------------------- | --------------------------------------------------------------- |
-| **app/**             | এখানে থাকে **Model**, **Controller**, এবং **Core Logic**        |
-| **routes/**          | এখানে সব **URL route** define করা হয় (`web.php` সবচেয়ে ব্যবহৃত) |
-| **resources/views/** | এখানে থাকে **Blade file (HTML পেজ)**                            |
-| **database/**        | এখানে থাকে **Migration (table তৈরি করার ফাইল)**                 |
-| **public/**          | এখানেই থাকে **CSS, JS, image** ফাইলগুলো                         |
-| **.env**             | এখানে তোমার **Database & App configuration** থাকে               |
-| **artisan command**  | Laravel-এর নিজের command system — যেমন: `php artisan serve`     |
+### | Folder/File          | কাজ                                                             |
+### | -------------------- | --------------------------------------------------------------- |
+### | **app/**             | এখানে থাকে **Model**, **Controller**, এবং **Core Logic**        |
+### | **routes/**          | এখানে সব **URL route** define করা হয় (`web.php` সবচেয়ে ব্যবহৃত) |
+### | **resources/views/** | এখানে থাকে **Blade file (HTML পেজ)**                            |
+### | **database/**        | এখানে থাকে **Migration (table তৈরি করার ফাইল)**                 |
+### | **public/**          | এখানেই থাকে **CSS, JS, image** ফাইলগুলো                         |
+### | **.env**             | এখানে তোমার **Database & App configuration** থাকে               |
+### | **artisan command**  | Laravel-এর নিজের command system — যেমন: `php artisan serve`     |
 
 -----
 
