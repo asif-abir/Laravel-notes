@@ -23,3 +23,14 @@ View: ইউজারকে যা দেখা যায় (HTML/Blade)
 Model: ডেটাবেসের সাথে কাজ করে
 
 ---
+### 🧱 Step 3: ছোট একটা প্রজেক্ট তৈরি করি
+
+আমরা “Hello Laravel” প্রজেক্টটা এবার MVC অনুযায়ী করবো।
+
+### 🔹 (A) Controller তৈরি করো
+
+টার্মিনালে গিয়ে লেখো 👇
+----
+``` php
+php artisan make:controller HelloController
+```
